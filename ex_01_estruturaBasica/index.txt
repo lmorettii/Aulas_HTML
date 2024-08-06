@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>página web do Morete</title>
+	</head>
+	<body>
+		<p>"Meu cérebro é mais do que 
+		algo meramente mortal"
+		- Ada Lovelace</p>
+	</body>
+</html>
